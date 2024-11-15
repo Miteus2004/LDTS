@@ -1,0 +1,192 @@
+SplineFontDB: 3.2
+FontName: Untitled1
+FullName: Untitled1
+FamilyName: Untitled1
+Weight: Regular
+Copyright: Copyright (c) 2023, Miguel
+UComments: "2023-12-7: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 1
+XUID: [1021 562 -377910129 2547038]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1701989767
+ModificationTime: 1701995554
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 64 16 4
+BeginChars: 256 1
+
+StartChar: A
+Encoding: 65 65 0
+Width: 569
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+299 750 m 29
+ 299 747 l 25
+ 299 750 l 29
+299 754 m 25
+ 299 751 l 25
+ 299 754 l 25
+299 756 m 1024
+299 759 m 1
+ 299 756 l 1
+ 299 759 l 1
+278 749 m 25
+ 278 746 l 25
+ 278 749 l 25
+278 754 m 25
+ 278 751 l 25
+ 278 754 l 25
+278 759 m 25
+ 278 756 l 25
+ 278 759 l 25
+383 266 m 25
+ 406 267 l 25
+ 515 419 l 1
+ 498 430 l 25
+ 383 273 l 1025
+212 266 m 1
+ 192 264 l 25
+ 63 424 l 1
+ 77 442 l 25
+ 212 266 l 1
+540 457 m 25
+ 527 494 l 1
+ 490 519 l 25
+ 356 458 l 1
+ 342 465 l 1
+ 343 498 l 1
+ 380 513 l 1
+ 384 523 l 1
+ 352 614 l 1
+ 328 577 l 1
+ 331 466 l 1
+ 398 428 l 2
+ 519 499 l 2
+ 490 519 l 1
+ 520 489 l 1
+ 540 457 l 25
+40 453 m 25
+ 38 493 l 25
+ 71 521 l 25
+ 208 456 l 1
+ 227 467 l 1
+ 225 499 l 1
+ 189 513 l 1
+ 186 523 l 1
+ 220 613 l 1
+ 236 577 l 1
+ 239 465 l 2
+ 164 426 l 2
+ 43 497 l 1
+ 71 521 l 1
+ 45 487 l 25
+ 40 453 l 25
+222 227 m 1
+ 224 176 l 1
+ 247 142 l 1
+ 265 172 l 1
+ 264 227 l 1
+ 250 227 l 1
+ 268 238 l 0
+ 275 247 l 1
+ 275 369 l 1
+ 221 434 l 1
+ 211 426 l 1
+ 270 355 l 1
+ 270 255 l 1
+ 237 227 l 1
+ 222 227 l 1
+372 227 m 2
+ 373 174 l 1
+ 352 137 l 1
+ 333 172 l 1
+ 331 227 l 1
+ 345 227 l 1
+ 317 248 l 1
+ 312 369 l 1
+ 353 435 l 1
+ 365 429 l 1
+ 318 356 l 1
+ 321 258 l 1
+ 358 227 l 1
+ 372 227 l 2
+EndSplineSet
+Fore
+SplineSet
+-24 427 m 1049
+289 791 m 1
+ 384 523 l 1
+ 380 513 l 1
+ 343 498 l 1
+ 342 465 l 1
+ 356 458 l 1
+ 545 543 l 1
+ 556 543 l 1
+ 562 530 l 1
+ 561 517 l 1
+ 547 467 l 1
+ 406 266 l 1
+ 383 266 l 1
+ 383 239 l 1
+ 372 227 l 5
+ 373 174 l 1
+ 352 137 l 1
+ 333 172 l 1
+ 331 227 l 1
+ 320 238 l 1
+ 275 238 l 1
+ 264 227 l 1
+ 265 172 l 1
+ 247 142 l 1
+ 224 176 l 1
+ 222 227 l 1
+ 212 235 l 1
+ 212 265 l 1
+ 192 265 l 1
+ 31 464 l 1
+ 16 520 l 1
+ 13 531 l 1
+ 20 540 l 1
+ 30 540 l 1
+ 208 456 l 1
+ 227 467 l 1
+ 225 499 l 1
+ 189 513 l 1
+ 186 523 l 1
+ 289 791 l 1
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
